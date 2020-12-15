@@ -1,0 +1,2 @@
+# medScript
+medScript aims to bridge the gap between a doctor and the patient through effective cloud based interactive UI It solves the problem of misplaced/falsified prescriptions, allowing the patient to a better healthcare by recording their visit to a doctor in the form of byte sized digital records obtained through transcription, using Speech to Text technology, in French, English, Russian, Spanish, Italian.
